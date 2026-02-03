@@ -1,5 +1,9 @@
-body {
-  background-color: #2d3748;
+html, body {
+  background-color: #131a25;
+  height: 100%;
+  text-align: center;
+  color: white;
+  font-family: Trebuchet MS;
 }
 
 h1 {
@@ -8,6 +12,30 @@ h1 {
 }
 
 p {
-  font-family: Trebuchet MS;
   font-size: 20px;
+  color: white;
+}
+
+a {
+  color: #abcbff;
+}
+
+.topbar{
+  background-color: #193258;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.maincontent{
+  background-color: #13233d;
+  color: white;
+  width: 65%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
 }
