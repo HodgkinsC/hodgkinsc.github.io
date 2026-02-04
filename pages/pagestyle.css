@@ -14,6 +14,7 @@ h1 {
 p {
   font-size: 20px;
   color: white;
+  text-align: left;
 }
 
 a {
@@ -31,11 +32,12 @@ a {
 .maincontent{
   background-color: #13233d;
   color: white;
-  width: 75%;
-  height: 100%;
+  width: 65%;
+  min-height: 100%;
   display: flex;
   flex-flow: column;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
+  margin-bottom: 0%;
+  padding: 40px;
 }
