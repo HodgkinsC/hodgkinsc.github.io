@@ -1,4 +1,4 @@
-C:/Program Files/Krita (x64)/bin/ffmpeg.exe -hide_banner -y -y -r 2 -start_number 0 -start_number_range 1 -i C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/frame%04d.png -i C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/KritaTempPalettegen_%06d.png -lavfi [0:v][1:v]paletteuse=dither=sierra2_4a:diff_mode=none -f gif -loop 0 -gifflags +transdiff C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/002.gif
+C:/Program Files/Krita (x64)/bin/ffmpeg.exe -hide_banner -y -y -r 2 -start_number 0 -start_number_range 1 -i C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/frame%04d.png -i C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/KritaTempPalettegen_%06d.png -lavfi [0:v][1:v]paletteuse=dither=sierra2_4a:diff_mode=none -f gif -loop 0 -gifflags +transdiff C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/002_1.gif
 =====================================================
 Input #0, image2, from 'C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/frame%04d.png':
   Duration: 00:00:00.24, start: 0.000000, bitrate: N/A
@@ -11,11 +11,11 @@ Stream mapping:
   Stream #1:0 (png) -> paletteuse
   paletteuse:default -> Stream #0:0 (gif)
 Press [q] to stop, [?] for help
-Output #0, gif, to 'C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/002.gif':
+Output #0, gif, to 'C:/Users/Callum Hodgkins/Documents/Website/hodgkinsc.github.io/img/002_1.gif':
   Metadata:
     encoder         : Lavf61.7.100
   Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 640x480 [SAR 1:1 DAR 4:3], q=2-31, 200 kb/s, 2 fps, 100 tbn
       Metadata:
         encoder         : Lavc61.19.101 gif
-[out#0/gif @ 0000028aa1518b40] video:30KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.064109%
-frame=    6 fps=0.0 q=-0.0 Lsize=      30KiB time=00:00:03.00 bitrate=  83.2kbits/s speed=14.1x    
+[out#0/gif @ 000001b50b347f00] video:62KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.031724%
+frame=    6 fps=0.0 q=-0.0 Lsize=      62KiB time=00:00:03.00 bitrate= 168.2kbits/s speed=  18x    

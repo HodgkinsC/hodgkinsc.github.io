@@ -32,6 +32,11 @@ img{
   margin-left: auto;
   margin-right: auto;
   color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row nowrap;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .maincontent{
