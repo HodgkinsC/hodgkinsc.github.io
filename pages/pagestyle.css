@@ -11,6 +11,11 @@ h1 {
   text-align: center;
 }
 
+#continue {
+  color: #abcbff;
+  text-align: center;
+}
+
 p {
   font-size: 20px;
   color: white;
