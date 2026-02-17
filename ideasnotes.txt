@@ -13,3 +13,11 @@ Protag is waiting for a game to load when they recive a message as an invitation
 I realise this also probably reads as the person just being like, an ultra gamer or something instead of the actual thing I'm trying to communicate, so that's not very good.
 
 Okay, I've expanded the idea. It's a more general, create art and new things for fun instead of doing nothing but waiting for entertainment to come to you.
+
+I'm something of an ideas guy...
+
+Also maybe in the story, the different objects represent different computer programs for example?
+Like they could use a canvas and the canvas has the floating UI of Krita, 
+the paint pallete being the colour picker and the brush being taken from a big tray full of all the different brush types.
+
+Or the window having the godot UI where you can create a game using a window to the outside.
