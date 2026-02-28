@@ -1,0 +1,58 @@
+html, body {
+  background-color: #131a25;
+  height: 100%;
+  text-align: center;
+  color: white;
+  font-family: Trebuchet MS;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#continue {
+  color: #abcbff;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  text-align: left;
+}
+
+a {
+  color: #abcbff;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topbar{
+  background-color: #193258;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row nowrap;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.maincontent{
+  background-color: #13233d;
+  color: white;
+  width: 65%;
+  min-height: 100%;
+  display: flex;
+  flex-flow: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0%;
+  padding: 40px;
+}

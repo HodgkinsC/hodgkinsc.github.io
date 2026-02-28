@@ -22,13 +22,36 @@ p {
   text-align: left;
 }
 
+#oops {
+  font-size: 10px;
+  color: white;
+  text-align: left;
+}
+
 a {
   color: #abcbff;
+  text-align: left;
 }
 
 img{
     margin-left: auto;
     margin-right: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+
+object{
+  margin-left: auto;
+  margin-right: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+
+ruffle-object{
+  margin-left: auto;
+  margin-right: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
 }
 
 .topbar{
@@ -47,12 +70,28 @@ img{
 .maincontent{
   background-color: #13233d;
   color: white;
-  width: 65%;
+  width: 55%;
   min-height: 100%;
   display: flex;
   flex-flow: column;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0%;
-  padding: 40px;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-bottom: 80px;
+
+}
+
+#collapse{
+  color: white;
+  text-align: center;
+}
+
+#bottombit{
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row nowrap;
+  padding-left: 30px;
+  padding-right: 30px;
 }

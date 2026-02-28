@@ -1,0 +1,50 @@
+
+#warning {
+  color: red;
+}
+
+.content {
+  max-width: 750px;
+  margin: auto;
+  font-family: bebas;
+  background-color: #0d0d0d;
+  color: white;
+  border-style: dashed;
+  padding: 0rem 1rem;
+  line-height: 0.75;
+  text-align: center;
+}
+
+.thread {
+  max-width: 750px;
+  margin: auto;
+  font-family: bebas;
+  background-color: #0d0d0d;
+  color: yellow;
+  border-style: dashed;
+  padding: 0rem 1rem;
+  line-height: 0.75;
+}
+
+.message {
+  max-width: 750px;
+  margin: auto;
+  line-height: 0.5;
+  background-color: #0d0d0d;
+  color: white;
+  border-style: dashed;
+  padding: 0rem 1rem;
+}
+
+#threadlink {
+  color: yellow;
+}
+
+#messagetext {
+  line-height: 1;
+}
+
+@font-face {
+  font-family: bebas;
+  src: url(fonts/BebasNeueRegular.ttf);
+}
