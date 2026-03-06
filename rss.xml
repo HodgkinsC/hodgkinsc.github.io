@@ -10,11 +10,15 @@
     <title>Page 20 up!!!</title>
     <link>https://hodgkinsc.github.io/pages/019</link>
   </image>
-  <image>
-    <url>https://hodgkinsc.github.io/img/newpage.png</url>
-    <title>Page 21 side!!!</title>
-    <link>https://hodgkinsc.github.io/pages/020</link>
-  </image>
+  <item>
+    <title>Page 24 !!!!!</title>
+    <link>https://hodgkinsc.github.io/pages/023</link>
+    <image>
+      <url>https://hodgkinsc.github.io/img/newpage.png</url>
+      <title>NEW PAGE!!!!</title>
+      <link>https://hodgkinsc.github.io/pages/023</link>
+    </image>
+  </item>
 </channel>
 
 </rss>
