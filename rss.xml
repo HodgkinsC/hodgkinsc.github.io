@@ -11,13 +11,21 @@
     <link>https://hodgkinsc.github.io/pages/019</link>
   </image>
   <item>
-    <title>Page 24 !!!!!</title>
+    <title>Page 24 !!!!</title>
     <link>https://hodgkinsc.github.io/pages/023</link>
-    <image>
-      <url>https://hodgkinsc.github.io/img/newpage.png</url>
-      <title>NEW PAGE!!!!</title>
-      <link>https://hodgkinsc.github.io/pages/023</link>
-    </image>
+    <description>Nuew Pageee</description>
+  <item>
+    <title>Page 26 !!!!!</title>
+    <link>https://hodgkinsc.github.io/pages/025</link>
+    <description><![CDATA[
+			
+			
+			<a href="https://hodgkinsc.github.io/pages/026">
+			
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
   </item>
 </channel>
 
