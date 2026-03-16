@@ -1,3 +1,7 @@
+@font-face { font-family: Rowdies ; src: url('fonts/Rowdies-Regular.ttf'); } 
+@font-face { font-family: Rowdies; font-weight: bold; src: url('fonts/Rowdies-Bold.ttf'); }
+@font-face { font-family: Rowdies; font-weight: lighter; src: url('fonts/Rowdies-Light.ttf'); }
+
 html, body {
   background-color: #131a25;
   height: 100%;
@@ -9,7 +13,7 @@ html, body {
 h1 {
   color: white;
   text-align: center;
-  font-family: 'fonts/Rowdies-Regular.tff';
+  font-family: Rowdies;
 }
 
 p {
