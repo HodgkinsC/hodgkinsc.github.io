@@ -1,13 +1,7 @@
-//The function is async so it does this alongside the other page loading stuff further behind the scenes.
+//The function is async so it does this alongside the other page loading stuff further behind the scenes. (It also gets angry at me if it's not async)
 async function setup_page() {
-
-    //Get the url parameter and store what the page is set to
-    console.log(window.location.href)
-    console.log(window.location.href.split("?p="))
-
-
     //This code gets the page content from an md file and copies it into the "main content" div in page.html based on the url parameters.
-    //The url will get set earlier when I implement the url checking.
+    //This checks what page the url says (page?p=001) and finds the content file for the page.
     const url = "/pages/" + window.location.href.split("?p=")[1] + ".md";
     //Tries to fetch the page content, if it can't then it'll throw an error.
     try {
