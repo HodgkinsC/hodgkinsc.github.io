@@ -44,7 +44,7 @@ img{
   padding-right: 30px;
 }
 
-.maincontent{
+#maincontent{
   background-color: #13233d;
   color: white;
   width: 65%;
