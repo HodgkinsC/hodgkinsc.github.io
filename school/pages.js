@@ -12,13 +12,12 @@ async function setup_page() {
 
     //This sets result to be the content gotten from the fetch.
     const result = await response.text();
-    console.log(result);
     //This is the part that sets the inside of the div to the page content.
     document.getElementById("maincontent").innerHTML = result
     //This catches the thrown error and puts a message in the console, as well as going to an error page.
     } catch (error) {
         console.error(error.message);
         //This sets the divs inner html to a very simple error page if it can't find page content
-        document.getElementById("maincontent").innerHTML = "<p>Oopsie, that page couldn't be found!!!</p>"
+        document.getElementById("maincontent").innerHTML = "<p>Oopsie, that page couldn't be found!!!</p><a href='/'><h2>Go to homepage</h2></a>"
     }
 }
