@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta charset="UTF-8">
+
+	<title>Art Resources</title>
+
+	<link rel="stylesheet" href="../stylesheet.css">
+	</style>
+	<body>
+		<div id="navbar">
+			<a href="../"><h3>Home page</h3></a>
+            <a href="../map"><h3>Comic Map</h3></a>
+            <a href="../resources"><h3>Guides</h3></a>
+		</div>
+		<div class="maincontent">
+			<h1>Getting Started with Godot</h1>
+			
+            <p>These guides use Godot 4.5, this guide may not work with other versions of the engine.</p>
+            <p>This project will be a simple 2D platformer, the guide will go in-depth about everything you do and explain what you're actually doing.</p>
+            <p>So, opening Godot for the first time and every consecutive time after that will give you this screen, or something similar to it.</p>
+            <img src="../img/godotprojselect.png" width="75%" alt="A screenshot of the Godot Project Select screen.">
+            <p>(It may look slightly off and that's because I had to modify the image to remove the projects I already have)</p>
+            <p>This is the <yel>Godot Project Selector</yel>. It is where you <yel>Select</yel> your <yel>Godot Projects</yel>. To create a new <yel>project</yel>, click create at the top right corner of the window and you'll see this pop up:</p>
+            <img src="../img/godotprojcreate.png" width="75%" alt="The godot project creation window.">
+            <p>(If you're like me then you'll understand how annoying it is to name projects you haven't made yet, on my usual projects I usually just give them random names that are vagely similar to what I want to do. Some of my professional projects have names like "codering". For this I'm just calling it "Website Guide" but the project name doesn't really have any bearing on the actual project and it can be renamed later.)</p>
+            <p>After setting the project name, set the project path to a place that's useful and reasonable, it's good to create a "<yel>Projects</yel>" folder and add the projects in there. If you have the "<yel>Create Folder</yel>" check box checked then it'll create a new folder with the project name inside the folder path specified below it.</p>
+            <p>The next section below the path isn't really relevant for this guide but I'll explain it anyways. The <yel>Renderer</yel> tab lets you select which renderer the project will use (This can be changed later.) If you select them then it'll show what the renderer is good for.<br>The "<yel>Forward+</yel>" renderer can only run on desktop platforms, not on mobile or embedded in websites.<br>The "<yel>Mobile</yel>" renderer is less optimised for more advanced scenes but it can be run on both Desktop and Mobile devices, not embedded in websites though.<br>The "<yel>Compatibility</yel>" renderer is optimised for much simpler scenes and can be run on Desktop, Mobile, and be embedded into websites.</p>
+            <p>This project will be simple and I intend to place the finished project in this website, so I'll use the "<yel>Compatibility</yel>" renderer.</p>
+            <p>The final section is the "<yel>Version Control Metadata</yel>". This section is for people who use version control programs like "<yel>Git</yel>". We won't be using version control for this guide so set it to "<yel>None</yel>"</p>
+            <p>(Also check "<yel>Edit Now</yel>" if it isn't already.)</p>
+            <p>And with the settings set, you can now press "<yel>Create</yel>".</p>
+            <img src="../img/godotprojdefault.png" width="75%" alt="The default Godot viewport">
+            <p>After waiting for the project to load, you will be met with a view similar to this. You'll probably be automatically placed into the 3D view, but this project will be 2D so switch to the <yel>2D</yel> tab at the top centre of the screen.</p>
+            <p>First, starting on the left side of the screen at the top, there's the <yel>Scene Hierarchy</yel> view. It displays every game object that's included in the current scene<br>Underneath it is the <yel>File System</yel> view, it shows you the inside of the project folder, this is where all game files will be stored (Excluding save data, which we will not get in to). There should already be a single file in the folder: "<yel>icon.svg</yel>". It's the image used for the project's icon.</p>
+            <p>On the right side of the screen is the inspector, when you have a game object selected, it will display all information about that game object, like it's postition, rotation and scale for example.</p>
+            <p>You may have noticed that there are more tabs at the top of each of the mini windows, we'll get into those later.</p>
+            <img src="../img/godotcreatescene.png" width="75%" alt="Zoomed in on the scene hierarchy">
+            <p>Since we are making a 2D game, you'll want to select "<yel>2D Scene</yel>" under <yel>Create Root Node</yel> in the <yel>Scene Hierarchy</yel></p>
+            <p></p>
+        </div>
+		<img src="../img/bottombar.png" height="120px" alt="Bottom bar image">
+	</body>
+</html>
