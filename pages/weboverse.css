@@ -8,7 +8,7 @@
   margin: auto;
   font-family: bebas;
   background-color: #0d0d0d;
-  color: white;
+  /*color: white;*/
   border-style: dashed;
   padding: 0rem 1rem;
   line-height: 0.75;
@@ -31,7 +31,7 @@
   margin: auto;
   line-height: 0.5;
   background-color: #0d0d0d;
-  color: white;
+  /*color: white;*/
   border-style: dashed;
   padding: 0rem 1rem;
 }

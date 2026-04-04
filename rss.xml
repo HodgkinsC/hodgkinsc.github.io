@@ -5,54 +5,21 @@
   <title>Uhhh the webcomic thingy</title>
   <link>https://hodgkinsc.github.io</link>
   <description>The uhhh, the the comic, the web comic...</description>
+  
   <item>
-    <title>Page 29 !!!!!</title>
-    <link>https://hodgkinsc.github.io/pages/028</link>
+    <title>Page 71 The [S] Enter Code flash is up!!!!!</title>
+    <link>https://hodgkinsc.github.io/page?p=0071</link>
     <description><![CDATA[
 			
+			<p>Huge refactoring of the website structure so it now no longer has a ton of html files and instead dynamically loads page data from one central page. Also I switched to using a thousands url format instead of hundreds because if I ever manage to get this comic done then there will be at least 1 thousand pages.<br>Also page 71!!!!!!!!!!! The semi-long awaited flash.</p>
 			
-			<a href="https://hodgkinsc.github.io/pages/028">
-			
+      <a href="https://hodgkinsc.github.io/page?p=0071">
 			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
 			</a><br/>
 			
 			]]></description>
   </item>
-  <image>
-    <url>https://hodgkinsc.github.io/img/newpage.png</url>
-    <title>Page 20 up!!!</title>
-    <link>https://hodgkinsc.github.io/pages/019</link>
-  </image>
-  <item>
-    <title>Page 24 !!!!</title>
-    <link>https://hodgkinsc.github.io/pages/023</link>
-    <description>Nuew Pageee</description>
-  <item>
-    <title>Page 26 !!!!!</title>
-    <link>https://hodgkinsc.github.io/pages/025</link>
-    <description><![CDATA[
-			
-			
-			<a href="https://hodgkinsc.github.io/pages/026">
-			
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-  <item>
-    <title>Page 28 !!!!!</title>
-    <link>https://hodgkinsc.github.io/pages/027</link>
-    <description><![CDATA[
-			
-			
-			<a href="https://hodgkinsc.github.io/pages/027">
-			
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
+  
 </channel>
 
 </rss>

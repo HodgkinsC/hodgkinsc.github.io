@@ -67,7 +67,20 @@ ruffle-object{
   padding-right: 30px;
 }
 
-.maincontent{
+#navbar{
+  background-color: #193258;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row nowrap;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#maincontent{
   background-color: #13233d;
   color: white;
   width: 55%;
