@@ -83,7 +83,7 @@ ruffle-object{
 #maincontent{
   background-color: #13233d;
   color: white;
-  width: 55%;
+  width: 750px;
   min-height: 100%;
   display: flex;
   flex-flow: column;
