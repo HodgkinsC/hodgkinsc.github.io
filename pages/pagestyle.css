@@ -108,3 +108,8 @@ ruffle-object{
   padding-left: 30px;
   padding-right: 30px;
 }
+
+@font-face {
+  font-family: fancy;
+  src: url(../fonts/GreatVibes-Regular.ttf);
+}
