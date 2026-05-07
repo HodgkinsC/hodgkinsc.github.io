@@ -113,3 +113,5 @@ ruffle-object{
   font-family: fancy;
   src: url(../fonts/GreatVibes-Regular.ttf);
 }
+
+@font-face { font-family: DeltaTale; src: url('../fonts/DeterminationSansWeb.ttf'); }
