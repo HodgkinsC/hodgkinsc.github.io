@@ -1,0 +1,52 @@
+{
+    "001" : {
+        "page" : "001",
+        "cmd"  : "> Start Game",
+        "meta" : "You start the game...It's loading give it a minute.........Okayyyyyyy...... I'll have to say, inital impressions of this game are not positive........Why is it taking so long!?........Y'know what? Let's go do something else while we wait."
+    },
+    "001_1" : {
+        "page" : "001_1",
+        "cmd"  : "> Explode",
+        "meta" : "Wh-... uhhhh... no???"
+    },
+    "002" : {
+        "page" : "002",
+        "cmd"  : "> Walk into kitchen",
+        "meta" : "You walk into your kitchen / lounge / dining room / living room thingy. Your cat Ruffles is sleeping on the long comfy padded chair thing that has multiple names for no good reason."
+    },
+    "002_1" : {
+        "page" : "002_1",
+        "cmd"  : "> Pet Ruffles",
+        "meta" : "You pet Ruffles. Mission accomplished."
+    },
+    "003" : {
+        "page" : "003",
+        "cmd"  : "> Walk into fridge",
+        "meta" : "You walk into the fridge."
+    },
+    "004" : {
+        "page" : "004",
+        "cmd"  : "> Go make some art already",
+        "meta" : "Okay, okay... You ponder what kind of art you want to make."
+    },
+    "005" : {
+        "page" : "005",
+        "cmd"  : "> Find a piece of paper to scribble on",
+        "meta" : "You decide to look for some paper, and you find some."
+    },
+    "005_1" : {
+        "page" : "005_1",
+        "cmd"  : "> Start Drawing",
+        "meta" : "You start drawing"
+    },
+    "006" : {
+        "page" : "006",
+        "cmd"  : "> Look for some instrument",
+        "meta" : "You decide to look for an instrument."
+    },
+    "006_1" : {
+        "page" : "006_1",
+        "cmd"  : "> Start playing",
+        "meta" : "You start playing."
+    }
+}
