@@ -109,9 +109,6 @@ ruffle-object{
   padding-right: 30px;
 }
 
-@font-face {
-  font-family: fancy;
-  src: url(../fonts/GreatVibes-Regular.ttf);
-}
-
+@font-face { font-family: fancy; src: url(../fonts/GreatVibes-Regular.ttf); }
 @font-face { font-family: DeltaTale; src: url('../fonts/DeterminationSansWeb.ttf'); }
+@font-face { font-family: Coomer; src: url('../fonts/Retron2000.ttf'); }
