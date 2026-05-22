@@ -1,0 +1,234 @@
+<h1>The WHOLE pictures thread<br>SPOILERS POSSIBLY!!!</h1>
+<details id="collapse">
+	<summary>Show the ENTIRE pictures thread</summary>
+	<div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">This thread is for sharing space pictures, can be taken by you or found online, it can also be art and drawings of space!</p>
+			<p>07/03 - 10:20 pm</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User (Edited)</h3>
+			<p id="messagetext">-~Hello! I'm new to the forum! I don't have many space pictures but this is one I found online that I like!~-</p>
+			<img src="../img/space/11.03.spacedeep.jpg">
+			<p>11/03 - 7:14 am</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Wait its too big! Sorry, I don't know how to make it smaller.~-</p>
+			<p>11/03 - 7:15 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Oh, uhhh, before sending the message, set a custom size. I forgot to make that automatic...</p>
+			<p id="messagetext">Welcome to the forum though! I'll work on that.</p>
+			<p>11/03 - 3:15 pm</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Oh, well it's fine. Thank you!! ^w^ ~-</p>
+			<p>11/03 - 7:20 am</p>
+		</div>
+		<div class="message">
+			<h3>xX_SharkMAN_Xx - New User</h3>
+			<p id="messagetext">That space image is cool</p>
+			<p>11/03 - 09:58 am</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Thanks!!~-</p>
+			<p>11/03 - 8:06 am</p>
+		</div>
+		<div class="message">
+			<h3>xX_SharkMAN_Xx - New User</h3>
+			<p id="messagetext">were do you get space images from?</p>
+			<p>11/03 - 10:43 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Shark, you can find them elsewhere on the internet! Go to www.google.com and just search up space photos or something.</p>
+			<p>11/03 - 4:45 pm</p>
+		</div>
+		<div class="message">
+			<h3>xX_SharkMAN_Xx - New User</h3>
+			<p id="messagetext">ok I got some images</p>
+			<img src="../img/space/11.03.spacephotosorsomething.jpg">
+			<p>11/03 - 10:57 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">You can save the images, it doesn't have to be a screenshot of the search engine xD</p>
+			<p>11/03 - 5:01 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext"><em>WAIT</em> :O That image in the bottom left looks so cool!!! <em>WHAT is it????</em></p>
+			<p>11/03 - 00:06 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">I think that's a nebula? I'm not really sure though.</p>
+			<p>11/03 - 5:08 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">OH YEAH LOL, I forgot the name of it XD Nebulas are amazing to look at! So colourful and bright!!!</p>
+			<p>11/03 - 00:12 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Okay I'm going to log off now, see you guys later!</p>
+			<p>11/03 - 5:12 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Hmmm, MikeL57... How <em>WOULD</em> I take pictures of SPACE like it says in the intro message??? xD</p>
+			<p>11/03 - 00:27 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Oh yeah.. There's no clear view to the sky...<br>Maybe you could do the opposite of look up? Below the ground there is the hanging area, mainly used for maintenance, maybe we could go down there and look down at the weird lights that are sometimes below?? I think I heard about that somewhere?</p>
+			<p id="messagetext">It isn't exactly space but it could still be cool to see. Although it is off limits for anyone not working in maintenance.</p>
+			<p>12/03 - 10:51 am</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext"><em>YOU</em> seem old enough to be allowed down there, but <em>I</em> can't and I don't think the other people on this site can <em>EITHER</em> :(</p>
+			<p>11/03 - 06:58 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext"><em>WELL I MEAN</em> actually I forgot I'm 19 so I <em>COULD</em>, <em>BUUUUUUUUUTTT</em> I don't really want to... :l</p>
+			<p>11/03 - 06:58 pm</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">I guess I could try getting a pic from the maintenance section, might be kinda hard though, considering I don't really have a job there.</p>
+			<p>12/03 - 11:13 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Actually... I could probably get one, they don't really seem to care about people going down there. There is basically no security and the actual workers are just sitting at their stations the whole time.</p>
+			<p>12/03 - 11:13 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">A photo I mean.</p>
+			<p>12/03 - 11:14 am</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">WAIT!!!! what do you mean by the lights <em>BELOW????</em> I didn't think there even <em>WAS</em> anything underground?????? :O</p>
+			<p>12/03 - 11:34 am</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">ALSO ALSO ALSO, are you <em>SEROUSLY</em> considering commiting a <em>CRIME</em> for just a <em>PICTURE??????</em> :O</p>
+			<p>12/03 - 11:36 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">(Sorry I just fixed some forum stuff but am back, check in the off-topic thread)</p>
+			<p id="messagetext">Yeah, there is stuff down there. It's where our main source of power is, in fact. The main crazy light show thingy I'll try to capture is rare and only really shows up in specific areas.</p>
+			<p>12/03 - 12:03 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">It's nothing crazy, again they don't care much. If anyone asks, I'll just say I'm a random journalist or something.</p>
+			<p>12/03 - 12:08 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Infact! If anyone else wanted to come, they could! I'm not sure if anyone wants to but if you live in or near this, meet at the #!&amp;%(*%$&amp; city centre, in the park there. I'll be leaving on the 14th, it'll be early though, like 6am, sooooooo.</p>
+			<p>12/03 - 12:10 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Wait, this probably shouldn't be in the pictures thread...</p>
+			<p>12/03 - 12:12 am</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">HMMMMMM... It could be FUN, BUT I don't live nearby!!! :(</p>
+			<p>12/03 - 12:26 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">I'll make sure to take lots of videos and photos for you! (and everyone else)</p>
+			<p>12/03 - 12:28 am</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">I'll post this in off-topic since it recieves less traffic. If anyone else is coming then reply to the off-topic message since this is still the pictures thread.</p>
+			<p>12/03 - 12:28 am</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~I probably couldn't go... Have fun though!! :3~-</p>
+			<p>12/03 - 12:30 am</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">I found this REALLY COOL ONE just now!!!! :D LOOK!!!</p>
+			<img src="../img/space/12.03.coolnebulae.jpg" width="500px">
+			<p>12/03 - 5:53 pm</p>
+		</div>
+		<div class="message">
+			<h3>MikeL57 - Site Admin</h3>
+			<p id="messagetext">Wow, that is really cool! Also thank you for setting the size correctly because that image is really high quality, that reminds me that I still need to fix that! The site'll be down for a bit though because I don't want to edit things while it's active.</p>
+			<p>13/03 - 8:22 am</p>
+		</div>
+		<div class="message">
+			<h3>xX_SharkMAN_Xx - New User</h3>
+			<p id="messagetext">that</p>
+			<p>13/03 - 3:30 pm</p>
+		</div>
+		<div class="message">
+			<h3>xX_SharkMAN_Xx - New User</h3>
+			<p id="messagetext">'s an amazing image, its sat there isn't much images of them... (Sorry i misclicked)</p>
+			<p>13/03 - 3:30 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">MAYBE!!! (Hear me out on this...) Someone makes ART of it????????</p>
+			<p>13/03 - 1:03 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">I'm NOT very GOOD at it but maybe someone ELSE???? Lemme know!!</p>
+			<p>13/03 - 5:04 pm</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~I have wanted to get into art but never got around to it... Maybe I could try this? It won't be good though.~-</p>
+			<p>13/03 - 6:33 pm</p>
+		</div>
+		<div class="message">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Okay I've looked at some tutorials and have created this: (I hope it's not too bad! :3)~-</p>
+			<img src="../img/space/13.03.nebulart.jpg" width="500px">
+			<p id="messagetext">-~I have to go on a family trip, so see you people in a couple days!~-</p>
+			<p>13/03 - 7:56 pm</p>
+		</div>
+		<h3>From Nova's Timezone now -14 HRS</h3>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Hey!!! I got a telescope ^w^ Can't really see the stars though for obvious reasons, but I got this cool picture of the sky! :3 It's not just a flat screen but more jagged? I never knew that??~-</p>
+			<img src="../img/space/14.03.skytile.jpg" width="500px">
+			<p>13/03 - 6:26 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~It's a bit warped because I had to hold the camera up to the telescope lens but it still looks interesting! :3~-</p>
+			<p>13/03 - 6:26 pm</p>
+		</div>
+	</div>
+</details>
+<a href="?p=discussionthread"><h2>> Discussion Thread</h2></a>
+<a href="?p=picturesthread"><h2>> Pictures Thread</h2></a>
+<a href="?p=offtopicthread"><h2>> Off-Topic Thread</h2></a>\
+<a href="?p=csathread"><h2>> Connection Spire Adventures Thread</h2></a>
+
+<div id="bottombit">
+	<h5>ALL TIME</h5>
+</div>

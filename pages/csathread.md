@@ -1,9 +1,6 @@
-<h1>First check weboverse for anything new and add status update</h1>
-<img src="../img/144.gif" width="650px" height="450px" alt="You holding your phone, Weboverse is open on it, there's a new thread on the front page.">
-<p>As you're walking back to the cabin, you look around on Weboverse but there's nothing new in any of the threads.</p>
-<p>But you do see that there's a new thread called "Connection Spire Adventures".</p>
+<h1>The WHOLE Connection Spire Adventures thread<br>SPOILERS POSSIBLY!!!</h1>
 <details id="collapse">
-	<summary>Show new thread</summary>
+	<summary>Show the ENTIRE CSA thread</summary>
 	<div>
 		<div class="message" style="color: blueviolet;">
 			<h3>NotTairo - New User</h3>
@@ -22,9 +19,11 @@
 		</div>
 	</div>
 </details>
-<a href="?p=0145"><h2>> ==></h2></a>
+<a href="?p=discussionthread"><h2>> Discussion Thread</h2></a>
+<a href="?p=picturesthread"><h2>> Pictures Thread</h2></a>
+<a href="?p=offtopicthread"><h2>> Off-Topic Thread</h2></a>
+<a href="?p=csathread"><h2>> Connection Spire Adventures Thread</h2></a>
 
 <div id="bottombit">
-	<a href="?p=0143">Previous Page</a>
-	<h5>17/05</h5>
+	<h5>ALL TIME</h5>
 </div>
