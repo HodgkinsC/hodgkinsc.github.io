@@ -219,8 +219,203 @@
 		</div>
 		<div class="message" style="color: hotpink;">
 			<h3>Amethyst - New User</h3>
-			<p id="messagetext">-~It's a bit warped because I had to hold the camera up to the telescope lens but it still looks interesting! :3~-</p>
+			<p id="messagetext">-~It's a bit warped because I had to hold the camera up to the telescope lens but it still looks interesting!!~-</p>
 			<p>13/03 - 6:26 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Oh WOW!!! Most of the pictures from online I've seen were during the day or the middle of the night, so you couldn't really make out the details that well. But THIS is a view I haven't seen before :D</p>
+			<p>13/03 - 6:27 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">I actually can't really find much info about the sky..... It's all just "BIG SCREENS" and talking about the tracks on them. It seems like SUCH COOL TECH and they just DONT AKNOWLEDGE IT!!!???</p>
+			<p>13/03 - 6:27 pm</p>
+		</div>
+		<div class="message">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">AT LEAST some of the other technologies ARE documented....</p>
+			<p>13/03 - 6:28 pm</p>
+		</div>
+		<div class="message" style="color: red;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Oh!!!! :O Are we doing the coloured messages thing???</p>
+			<p>13/03 - 6:28 pm</p>
+		</div>
+		<div class="message" style="color: yellow;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Actually no, maybe not red????</p>
+			<p>13/03 - 6:28 pm</p>
+		</div>
+		<div class="message" style="color: lime;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Or yellow...... :P</p>
+			<p>13/03 - 6:28 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">OR GREEN :(</p>
+			<p>13/03 - 6:28 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">OKAY!!!!! I think this one's good!!? Like a bluer green...</p>
+			<p>13/03 - 6:29 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Hey!! I was actually wondering a bit about those structures, like the spire things or whatever :3~-</p>
+			<p>13/03 - 6:30 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~All I really know is that they're like, power things?? And that's kinda it...~-</p>
+			<p>13/03 - 6:30 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Huh, yeah they ARE power things, but they do other stuff too!</p>
+			<p>13/03 - 6:31 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Their main purpose IS power though, with 3 parts, sort of. Part 1 is power GENERATION, they have these MASSIVE generators inside that are REALLY far underground. They are pretty much the MAIN power source for the WHOLE PLANET!!!!</p>
+			<p>13/03 - 6:31 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">It's actually WIND POWERR!!!!!! believe it or not.</p>
+			<p>13/03 - 6:32 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Part 2 is the main CONNECTION part of the name. They transfer the generated energy across the planet, powering the sky and making sure every area has an even power distribution.</p>
+			<p>13/03 - 6:32 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Honestly I think it's SO COOL how they managed to wire everything up and make it so stable??? I don't even know how I would BEGIN to plan something this MASSIVE??? Most of the things I make are just small little gadgets and stuff. Even my bigger projects are still just... eh :P</p>
+			<p>13/03 - 6:33 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">I could probably show you some of them in the future?????</p>
+			<p>13/03 - 6:34 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Okay wait, I just realised part 2 and part 3 are kind of the same thing, I probably could've combined them but........<p>
+			<p>13/03 - 6:34 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Part 3 is supplying power to places like cities, for instance.. It's pretty much an UNLIMITED amount of power, even MORE when combined with all the other methods of power generation OUTSIDE of the spires. So it's PRETTY USEFUL for anyone who needs energy!!<p>
+			<p>13/03 - 6:35 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">That's the main power bit, uh...<p>
+			<p>13/03 - 6:35 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Yeah, some may say they're structural supports but they're actually COMPLETELY WRONG THERE!!! First off: They're mostly hollow, and most of the wires are embedded within its walls instead of hanging about on the inside. And SECOND!! They are TINY compared to the size of the planet, they're only 500 METERS in radius, which is NOT big enough to support the ENTIRE SKY!!!<p>
+			<p>13/03 - 6:37 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Ah, okay they KIND OF support the sky...? But it's more like the sky is lightly resting on them, most of the support is IN the sky rather than the spires. Most of the ground supports are at the planet's poles anyways.<p>
+			<p>13/03 - 6:38 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">The sky actually isn't completely solid either!! Well, it's structurally sound, BUT!!!! They all have movement capabilities, each tile can slide around and retract into the surrounding tiles, usually making up for flexes within the metal and other various scenarios where they need to adjust.<p>
+			<p>13/03 - 6:40 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Wow!! :3~-</p>
+			<p>13/03 - 6:44 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~That... is a lot!~-</p>
+			<p>13/03 - 6:44 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Ah!! Sorry.. I did not realise how much I wrote :P I was gonna write more too!!<p>
+			<p>13/03 - 6:45 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">That's always a thing for me??? I type out a message and it looks really big once I send it, but it never seems that big until then??<p>
+			<p>13/03 - 6:45 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~No no!! It's okay, you're allowed to write words x3 I'm just a bit stunned about how much you know??~-</p>
+			<p>13/03 - 6:46 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Hehe, yeah.. I do a LOT of research into these things, I just find them SO COOOL!!!!<p>
+			<p>13/03 - 6:46 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~They are pretty cool :3 I've never really dabbled in technology that much.~-</p>
+			<p>13/03 - 6:47 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~You mentioned your own projects. Do you build things like... idk, robots? I'm just a bit interested in what you've been making.~-</p>
+			<p>13/03 - 6:47 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~It's getting pretty dark so I might leave soon, but I can stay for a bit longer!!~-</p>
+			<p>13/03 - 6:48 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">Well recently I've been doing a bit of mini ROCKETRY!! I don't really have the proper materials though so it's mainly being built out of plastic bottles and stuff. It's actually a school project I'm working on!!!<p>
+			<p>13/03 - 6:49 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~That sounds pretty cool!! Have you done any sort of test flight yet? You probably have but just asking.~-</p>
+			<p>13/03 - 6:51 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">I've done a test flight with it but it didn't go very far since I didn't want to do a full launch, only a small test one to see if it could get off the ground. It reached around DOUBLE the height of the school building!!!<p>
+			<p>13/03 - 6:52 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Huh, I wonder how high it'll go when you do a full launch then? Does it have parachutes on it?~-</p>
+			<p>13/03 - 6:53 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">YEP!!!! Safely prepared with some good parachutes on it! Wouldn't want it to break or bonk someone on the head on the way down!! XD<p>
+			<p>13/03 - 6:53 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Yeah x3~-</p>
+			<p>13/03 - 6:54 pm</p>
+		</div>
+		<div class="message" style="color: #00ff88;">
+			<h3>Winter5234 - New User</h3>
+			<p id="messagetext">It really was nice talking to you!! BUUT I think I should probably go to bed now though...<p>
+			<p>13/03 - 6:54 pm</p>
+		</div>
+		<div class="message" style="color: hotpink;">
+			<h3>Amethyst - New User</h3>
+			<p id="messagetext">-~Yeah it is quite late, it was nice to chat with you ^w^ Goodnight!!~-</p>
+			<p>13/03 - 6:55 pm</p>
 		</div>
 	</div>
 </details>
