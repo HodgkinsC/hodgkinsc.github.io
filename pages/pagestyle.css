@@ -45,6 +45,7 @@ object{
   margin-right: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
+  background-color: #13223c;
 }
 
 ruffle-object{
@@ -52,6 +53,7 @@ ruffle-object{
   margin-right: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
+  background-color: #13223c;
 }
 
 .topbar{
@@ -81,7 +83,7 @@ ruffle-object{
 }
 
 #maincontent{
-  background-color: #13233d;
+  background-color: #13223c;
   color: white;
   width: 750px;
   min-height: 100%;
