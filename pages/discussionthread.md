@@ -53,7 +53,7 @@
 		<div class="message" style="color: blueviolet;">
         	<h3>NotTairo - New User</h3>
 			<p id="messagetext">Me and Mike are at the spire, there's this massive cargo elevator inside that took us really far underground. He's got some interesting videos and photos to share already but is waiting until we're out of here since this place doesn't have wifi coverage.</p>
-			<p>13/03 - 5:12 pm</p>
+			<p>13/03 - 5:12 pm or 14/04 - 7:12 am</p>
 		</div>
 		<div class="message" style="color: blueviolet;">
 			<h3>NotTairo - New User</h3>

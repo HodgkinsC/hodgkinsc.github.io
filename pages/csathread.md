@@ -5,17 +5,17 @@
 		<div class="message" style="color: blueviolet;">
 			<h3>NotTairo - New User</h3>
 			<p id="messagetext">Hey!! Update!!! So, we found this room, it's like a control room of sorts and it has an unlocked router in it so I'm using that to talk on here. Unfortunately however, Mike dropped his phone :( So all the previous recordings are gone, I have some footage and could probably record more but still :(</p>
-			<p>13/03 - 6:05 pm</p>
+			<p>13/03 - 6:05 pm or 14/04 - 8:05 am</p>
 		</div>
 		<div class="message" style="color: blueviolet;">
 			<h3>NotTairo - New User</h3>
 			<p id="messagetext">Dropped as in dropped off the edge of a really high platform and it's gone.</p>
-			<p>13/03 - 6:06 pm</p>
+			<p>13/03 - 6:06 pm or 14/04 - 8:06 am</p>
 		</div>
 		<div class="message" style="color: blueviolet;">
 			<h3>NotTairo - New User</h3>
 			<p id="messagetext">We weren't planning on staying too long so we'll probably head back soon. I don't want to also lose my phone as well.</p>
-			<p>13/03 - 6:06 pm</p>
+			<p>13/03 - 6:06 pm or 14/04 - 8:06 am</p>
 		</div>
 	</div>
 </details>
