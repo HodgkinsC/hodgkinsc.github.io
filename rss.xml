@@ -2,107 +2,38 @@
 <rss version="2.0">
 
 <channel>
-  <title>Uhhh the webcomic thingy</title>
+  <title>Uhhh the webcomic thingy (Currently Still Unnamed)</title>
   <link>https://hodgkinsc.github.io</link>
-  <description>The uhhh, the the comic, the web comic...</description>
+  <description>Funky Sci-fi Webcomic about some characters doing some things.</description>
   
   <item>
-    <title>Page 71 The [S] Enter Code flash is up!!!!!</title>
-    <link>https://hodgkinsc.github.io/page?p=0071</link>
+    <title>Page 208</title>
+    <link>https://hodgkinsc.github.io/comic?p=0208</link>
     <description><![CDATA[
 			
-			<p>Huge refactoring of the website structure so it now no longer has a ton of html files and instead dynamically loads page data from one central page. Also I switched to using a thousands url format instead of hundreds because if I ever manage to get this comic done then there will be at least 1 thousand pages.<br>Also page 71!!!!!!!!!!! The semi-long awaited flash.</p>
+			<p>Really slow progress since I don't like using visual studio code and opening it is annoying sometimes, so now I've just decided to use notepad++ with a command line live server for developing the page.</p>
 			
-      <a href="https://hodgkinsc.github.io/page?p=0071">
+      <a href="https://hodgkinsc.github.io/comic?p=0208">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 165 Zoom Flash!!!!!</title>
+    <link>https://hodgkinsc.github.io/comic?p=0165</link>
+    <description><![CDATA[
+			
+			<p>This flash has probably taken the longest to make out of all of them so far, despite not being the longest I don't think.</p>
+			
+      <a href="https://hodgkinsc.github.io/comic?p=0165">
 			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
 			</a><br/>
 			
 			]]></description>
   </item>
 
-  <item>
-    <title>Page 73 yeyyy</title>
-    <link>https://hodgkinsc.github.io/page?p=0073</link>
-    <description><![CDATA[
-			
-			<p>Yeah, new character, another introduction. Les goooo.</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0073">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-
-  <item>
-    <title>Page 74 yuoyyy</title>
-    <link>https://hodgkinsc.github.io/page?p=0074</link>
-    <description><![CDATA[
-			
-			<p>Yeah, old window, same introduction. Les goooo.</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0074">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-
-  <item>
-    <title>Page 75 YEAHGAHGHAHSHGAhHHHH!!!</title>
-    <link>https://hodgkinsc.github.io/page?p=0075</link>
-    <description><![CDATA[
-			
-			<p>We're still doing this, but there's a map now.</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0075">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-
-  <item>
-    <title>Page 76</title>
-    <link>https://hodgkinsc.github.io/page?p=0076</link>
-    <description><![CDATA[
-			
-			<p>I need to speed up production if I want to finish this story within my lifetime. That's an exaggeration, but still, I can't take forever on this story.</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0076">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-
-  <item>
-    <title>Page 77</title>
-    <link>https://hodgkinsc.github.io/page?p=0077</link>
-    <description><![CDATA[
-			
-			<p>I actually probably wont make a new feed item for every single time I make a new page, it's not like anyone's reading this anyways. I guess I'll only do notable pages.</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0077">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
-
-  <item>
-    <title>Pages 78 - 80</title>
-    <link>https://hodgkinsc.github.io/page?p=0078</link>
-    <description><![CDATA[
-			
-			<p>You've arrived at the site, also a (kinda) timelapse flash</p>
-			
-      <a href="https://hodgkinsc.github.io/page?p=0078">
-			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			]]></description>
-  </item>
   <item>
     <title>Page 100</title>
     <link>https://hodgkinsc.github.io/page?p=0100</link>
@@ -116,6 +47,104 @@
 			
 			]]></description>
   </item>
+  
+  <item>
+    <title>Pages 78 - 80</title>
+    <link>https://hodgkinsc.github.io/page?p=0078</link>
+    <description><![CDATA[
+			
+			<p>You've arrived at the site, also a (kinda) timelapse flash</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0078">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 77</title>
+    <link>https://hodgkinsc.github.io/page?p=0077</link>
+    <description><![CDATA[
+			
+			<p>I actually probably wont make a new feed item for every single time I make a new page, it's not like anyone's reading this anyways. I guess I'll only do notable pages.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0077">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 76</title>
+    <link>https://hodgkinsc.github.io/page?p=0076</link>
+    <description><![CDATA[
+			
+			<p>I need to speed up production if I want to finish this story within my lifetime. That's an exaggeration, but still, I can't take forever on this story.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0076">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 75 YEAHGAHGHAHSHGAhHHHH!!!</title>
+    <link>https://hodgkinsc.github.io/page?p=0075</link>
+    <description><![CDATA[
+			
+			<p>We're still doing this, but there's a map now.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0075">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 74 yuoyyy</title>
+    <link>https://hodgkinsc.github.io/page?p=0074</link>
+    <description><![CDATA[
+			
+			<p>Yeah, old window, same introduction. Les goooo.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0074">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 73 yeyyy</title>
+    <link>https://hodgkinsc.github.io/page?p=0073</link>
+    <description><![CDATA[
+			
+			<p>Yeah, new character, another introduction. Les goooo.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0073">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>
+  
+  <item>
+    <title>Page 71 The [S] Enter Code flash is up!!!!!</title>
+    <link>https://hodgkinsc.github.io/page?p=0071</link>
+    <description><![CDATA[
+			
+			<p>Huge refactoring of the website structure so it now no longer has a ton of html files and instead dynamically loads page data from one central page. Also I switched to using a thousands url format instead of hundreds because if I ever manage to get this comic done then there will be at least 1 thousand pages.<br>Also page 71!!!!!!!!!!! The semi-long awaited flash.</p>
+			
+      <a href="https://hodgkinsc.github.io/page?p=0071">
+			<img src="https://hodgkinsc.github.io/img/newpage.png" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			]]></description>
+  </item>  
   
 </channel>
 
